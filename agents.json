@@ -1,0 +1,9 @@
+{
+  "agents": [
+    {
+      "id": "agent-01",
+      "url": "https://agente-moderno-2kdy.onrender.com",
+      "enabled": true
+    }
+  ]
+}
