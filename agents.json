@@ -1,7 +1,47 @@
 {
   "agents": [
     {
-      "id": "agent-01",
+      "id": "2",
+      "url": "https://agente-moderno.onrender.com",
+      "enabled": true
+    },
+    {
+      "id": "3",
+      "url": "https://agente-moderno-sw8e.onrender.com",
+      "enabled": true
+    },
+    {
+      "id": "4",
+      "url": "https://agente-moderno-87h8.onrender.com",
+      "enabled": true
+    },
+    {
+      "id": "5",
+      "url": "https://agente-moderno-ehkv.onrender.com",
+      "enabled": true
+    },
+    {
+      "id": "6",
+      "url": "https://agente-moderno-apqy.onrender.com",
+      "enabled": true
+    },
+    {
+      "id": "7",
+      "url": "https://agente-moderno-t9fp.onrender.com",
+      "enabled": true
+    },
+    {
+      "id": "8",
+      "url": "https://agente-moderno-mdvg.onrender.com",
+      "enabled": true
+    },
+    {
+      "id": "9",
+      "url": "https://agente-moderno-gmig.onrender.com",
+      "enabled": true
+    },
+    {
+      "id": "10",
       "url": "https://agente-moderno-2kdy.onrender.com",
       "enabled": true
     }
