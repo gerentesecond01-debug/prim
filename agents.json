@@ -44,6 +44,11 @@
       "id": "10",
       "url": "https://agente-moderno-2kdy.onrender.com",
       "enabled": true
+    },
+    {
+      "id": "11",
+      "url": "https://agente-moderno-bory.onrender.com",
+      "enabled": true
     }
   ]
 }
