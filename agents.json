@@ -64,6 +64,11 @@
       "id": "14",
       "url": "https://agente-moderno-24i8.onrender.com",
       "enabled": true
+    },
+    {
+      "id": "15",
+      "url": "https://mastereagente.onrender.com",
+      "enabled": true
     }
   ]
 }
