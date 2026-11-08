@@ -39,6 +39,11 @@
       "id": "8",
       "url": "https://agente-moderno-apqy.onrender.com",
       "enabled": true
+    },
+    {
+      "id": "9",
+      "url": "https://agente-moderno-gmig.onrender.com",
+      "enabled": true
     }
   ]
 }
