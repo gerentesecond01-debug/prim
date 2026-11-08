@@ -44,6 +44,11 @@
       "id": "9",
       "url": "https://agente-moderno-gmig.onrender.com",
       "enabled": true
+    },
+    {
+      "id": "10",
+      "url": "https://agente-moderno-sw8e.onrender.com",
+      "enabled": true
     }
   ]
 }
