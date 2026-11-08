@@ -29,6 +29,11 @@
       "id": "6",
       "url": "https://agente-moderno-mdvg.onrender.com",
       "enabled": true
+    },
+    {
+      "id": "7",
+      "url": "https://agente-moderno-bory.onrender.com",
+      "enabled": true
     }
   ]
 }
