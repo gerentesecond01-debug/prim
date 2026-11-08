@@ -4,6 +4,11 @@
       "id": "1",
       "url": "https://agente-moderno-t9fp.onrender.com",
       "enabled": true
+    },
+    {
+      "id": "2",
+      "url": "https://agente-moderno-2kdy.onrender.com",
+      "enabled": true
     }
   ]
 }
