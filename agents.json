@@ -24,6 +24,11 @@
       "id": "5",
       "url": "https://agente-moderno-ehkv.onrender.com",
       "enabled": true
+    },
+    {
+      "id": "6",
+      "url": "https://agente-moderno-mdvg.onrender.com",
+      "enabled": true
     }
   ]
 }
