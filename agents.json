@@ -1,3 +1,9 @@
 {
-  "agents": []
+  "agents": [
+    {
+      "id": "1",
+      "url": "https://agente-moderno-t9fp.onrender.com",
+      "enabled": true
+    }
+  ]
 }
