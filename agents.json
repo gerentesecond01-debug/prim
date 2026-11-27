@@ -74,6 +74,11 @@
       "id": "17",
       "url": "https://agente-moderno-kcll.onrender.com",
       "enabled": true
+    },
+    {
+      "id": "18",
+      "url": "https://agente-moderno-vupf.onrender.com",
+      "enabled": true
     }
   ]
 }
